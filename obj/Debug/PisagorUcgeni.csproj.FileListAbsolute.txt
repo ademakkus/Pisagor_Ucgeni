@@ -1,0 +1,7 @@
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\bin\Debug\PisagorUcgeni.exe.config
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\bin\Debug\PisagorUcgeni.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\bin\Debug\PisagorUcgeni.pdb
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\obj\Debug\PisagorUcgeni.csprojResolveAssemblyReference.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\obj\Debug\PisagorUcgeni.csproj.CoreCompileInputs.cache
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\obj\Debug\PisagorUcgeni.exe
+C:\Users\LAB2-OGRT\source\repos\Oylesine\PisagorUcgeni\obj\Debug\PisagorUcgeni.pdb
